@@ -1,0 +1,34 @@
+body {
+	font-family: sans-serif;
+	background-image: url(002-Watercolor-Paper.png)
+}
+button {
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 100px;
+}
+header {
+	text-align: center;
+}
+
+h2 {
+	border-bottom: medium solid #666666;
+	padding-bottom: 2px;
+	padding-top: 5px;
+	margin: 0 10px 20px 10px;
+}
+h3 {
+	margin: 10px 20px 5px 20px;
+}
+h4, p, ul {
+	margin-left: 30px;
+	margin-right: 10px;
+}
+ul {
+	margin-bottom: 30px;
+}
+header h4 {
+	margin-left: 0;
+	padding: 2px 0 2px 0;
+	margin: 2px 0 2px 0;
+}
